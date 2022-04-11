@@ -1,0 +1,19 @@
+.td{
+    color: blue;
+    font-weight: 700;
+    font-size: 23px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+img:hover{
+    transform: scale(1.02);
+    opacity: 0.5;
+}
+td{
+    padding: 8px;
+}
+.khoang-cach{
+    line-height: 1.4rem;
+}
